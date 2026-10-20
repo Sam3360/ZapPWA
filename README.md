@@ -1,8 +1,8 @@
-# [Zap_v2](https://Sam3360.github.io/Zap/UserPolicyZap.html)  ⚡ [Latest version]
+# [Zap_v2 Now Phone Compatible](https://Sam3360.github.io/Zap/UserPolicyZap.html)  ⚡ [Latest version]
 
 ![Zap Banner](ZapBanner.png)
 
-Try it here: [https://Sam3360.github.io/Zap_v2](https://Sam3360.github.io/Zap_v2)
+Try it here: [https://Sam3360.github.io/Zap_v2](https://Sam3360.github.io/ZapPWA)
 
 Zap is a messaging app that I started building to learn web development. The goal was to create a simple chat platform that people can actually use instead of just making another demo project.
 
